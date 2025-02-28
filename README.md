@@ -9,3 +9,39 @@ Swiggy is a leading Indian food delivery platform that connects users with resta
   Handle null values in all tables.
 
   Re-analyze and ensure all null values are correctly handled.
+
+  **Data Formatting**
+
+  Change column names to be more descriptive and suitable.
+        
+  Drop unnecessary columns that do not contribute to the analysis.
+        
+  Drop unnecessary tables that are not required for further analysis.
+
+**Data Visualization**
+       
+      Create various visualizations to uncover trends and insights.
+
+  **Data Overview**
+
+    The dataset consists of 5 tables: Food, Menu, Orders, Orders Type, Restaurant, and Users.
+    
+    The data includes information for 100,000 users.
+    
+    The Menu table has a row count of 5.2 million.
+
+  **Data Cleaning Steps**
+
+    Identify and handle null values in each table.
+    
+    Ensure that no critical data is lost in the process.
+
+  **Power BI Steps**
+
+    Load the cleaned data into Power BI.
+    
+    Use Power Query to make necessary transformations such as merging tables and extracting date components.
+    
+    Establish relationships between tables using primary and foreign keys.
+    
+    Create various visualizations to uncover trends and insights.
