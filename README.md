@@ -18,25 +18,17 @@ Swiggy is a leading Indian food delivery platform that connects users with resta
         
   Drop unnecessary tables that are not required for further analysis.
 
-**Data Visualization**
-       
-      Create various visualizations to uncover trends and insights.
+  **Data Visualization**
 
-  **Data Overview**
-
-    The dataset consists of 5 tables: Food, Menu, Orders, Orders Type, Restaurant, and Users.
-    
-    The data includes information for 100,000 users.
-    
-    The Menu table has a row count of 5.2 million.
+    Create various visualizations to uncover trends and insights.
 
   **Data Cleaning Steps**
 
-    Identify and handle null values in each table.
-    
-    Ensure that no critical data is lost in the process.
+   Identify and handle null values in each table.
 
-  **Power BI Steps**
+    Ensure that no critical data is lost in the process.
+    
+   **Power BI Steps**
 
     Load the cleaned data into Power BI.
     
@@ -45,3 +37,5 @@ Swiggy is a leading Indian food delivery platform that connects users with resta
     Establish relationships between tables using primary and foreign keys.
     
     Create various visualizations to uncover trends and insights.
+
+      
