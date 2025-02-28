@@ -21,21 +21,17 @@ Swiggy is a leading Indian food delivery platform that connects users with resta
   **Data Visualization**
 
     Create various visualizations to uncover trends and insights.
-
+    
   **Data Cleaning Steps**
 
-   Identify and handle null values in each table.
-
+   Identify and handle null vales in each table.
+   
     Ensure that no critical data is lost in the process.
     
-   **Power BI Steps**
+  **Power BI Steps**
 
     Load the cleaned data into Power BI.
-    
-    Use Power Query to make necessary transformations such as merging tables and extracting date components.
-    
-    Establish relationships between tables using primary and foreign keys.
-    
-    Create various visualizations to uncover trends and insights.
+            
+    Create various visualizations.
 
       
