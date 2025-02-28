@@ -18,6 +18,5 @@ Swiggy is a leading Indian food delivery platform that connects users with resta
         
   Drop unnecessary tables that are not required for further analysis.
 
-  **Data Visualization**
 
-  Create various
+Pending....
